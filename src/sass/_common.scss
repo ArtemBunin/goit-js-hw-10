@@ -1,1 +1,17 @@
 @import '~node_modules/modern-normalize/modern-normalize.css';
+.county-item{
+    display: flex;
+    align-items: baseline;
+   
+}
+.country-img{
+    margin-right: 10px;
+}
+.country-name{
+    font-size: 16px;
+color: black;
+}
+body{
+
+    margin-left: 20px;
+}
