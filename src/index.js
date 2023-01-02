@@ -43,7 +43,7 @@ if (nameCounrty ==='')return cleareField()
 
     })
     .catch(error => {
-        Notify.failure('Oops, there is no country with that name');
+        Notify.failure('Ops, there is no country with that name');
         cleareField();
       
 });
